@@ -5,8 +5,6 @@
 	</p>
 </div>
 
-
-
 ## Contents
 
 - [Learn](#learn)
@@ -88,7 +86,8 @@
 - [curl-http3 Docker image](https://hub.docker.com/r/rmarx/curl-http3) - Docker image of cURL with full H3 support for no-nonsense testing
 
 
-
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! 
+
+The easiest way is to click on the "pen" icon in the upper right corner of this file. Make the changes to the file and follow the instructions to create a pull request.
