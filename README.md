@@ -19,6 +19,7 @@
 - [A Comprehensive Guide To HTTP/3 And QUIC](https://www.debugbear.com/blog/http3-quic-protocol-guide) - In-depth explanation of HTTP/3
 - [HTTP/3 explained](https://http3-explained.haxx.se/) - A friendly and collaborative description of the HTTP/3 and QUIC protocols
 
+- [MOQ Edge Deployments Registry](https://moqedge.nanocorp.app/deployments) — Source-linked Media over QUIC implementations, relays, clients, and deployment references.
 
 ## Implementations
 
